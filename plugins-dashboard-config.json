@@ -1,5 +1,5 @@
 {
-  "gitHubUser": "The-EG",
+  "gitHubUser": "LuxuSam",
   "plugins": [
     {"id": "physicalbutton", "name": "Physical Button", "url": "https://github.com/LuxuSam/PhysicalButton", "repo": "PhysicalButton"}
   ]
